@@ -10,9 +10,6 @@
 [submodule "Submodules/ProxyKit"]
 	path = Submodules/ProxyKit
 	url = git@github.com:chrisballinger/ProxyKit.git
-[submodule "Submodules/CPAProxy"]
-	path = Submodules/CPAProxy
-	url = git@github.com:ursachec/CPAProxy.git
 [submodule "Submodules/IOCipher"]
 	path = Submodules/IOCipher
 	url = git@github.com:ChatSecure/IOCipher-ObjC.git
